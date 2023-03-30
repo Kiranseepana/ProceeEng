@@ -96,7 +96,7 @@ const skills = {
         "⚡ Perform Process safety related activties(Hazards evolution and HAZOP)",
         "⚡ New Technology implementation",
         "⚡ Project management activites",
-        "⚡ Hands on experiens on Softwares(CRW4, Python,JAVA Programming, AutoCAD and ASPEN HYSYS) "
+        "⚡ Hands on experiens on Softwares(CRW4, Python,JAVA Programming, AutoCAD and ASPEN HYSYS) ",
         "⚡ Handling Cost improvement activties",
         "⚡ Evolute the Engergy saving options",
       ],
