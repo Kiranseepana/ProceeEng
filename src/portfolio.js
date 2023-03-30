@@ -89,13 +89,15 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Process Engineer",
+      title: "Process Engineer/Process Safety",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Capacity enhancement projects",
+        "⚡ Perform Process safety related activties(Hazards evolution and HAZOP)",
         "⚡ New Technology implementation",
-        "⚡ implementaion of new technolgies",
-        "⚡ Handling Process safety activties",
+        "⚡ Project management activites",
+        "⚡ Hands on experiens on Softwares(CRW4, Python,JAVA Programming, AutoCAD and ASPEN HYSYS) "
+        "⚡ Handling Cost improvement activties",
         "⚡ Evolute the Engergy saving options",
       ],
       softwareSkills: [
