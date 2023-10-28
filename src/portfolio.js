@@ -513,15 +513,27 @@ const experience = {
     {
       title: "Work",
       experiences: [
+          experiences: [
         {
-          title: "Assistant Manager- Operational Excellence",
+          title: "V4(DM)- Process Safety",
+          company: "Dr. Reddy's Laboratories Ltd",
+          company_url: "",
+          logo_path: "legato_logo.png",
+          duration: "Aug-2023 - PRESENT",
+          location: "Pydibheemavaram, A.P",
+          description:
+            "work on IH ,process safety elements(MOC, PSI, PHA & PSSR) for new process or facilities.",
+          color: "#0879bf",
+        },
+        {
+          title: "Assistant Manager- TSD /OE",
           company: "Cohance Life Science Ltd",
           company_url: "",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
+          duration: "June 2020 - July-2023",
           location: "Vizag, A.P",
           description:
-            "I am working on New products, Energy saving projects and Capacity enhancement.",
+            "Worked on New products Tech tranfers, Energy saving projects and Capacity enhancement.",
           color: "#0879bf",
         },
         {
